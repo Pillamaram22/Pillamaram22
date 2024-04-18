@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shruti
 - 👀 I’m interested in Data/Business Analytics
 - 🌱 I’m currently learning PLSQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on PowerBI project
 - 📫 How to reach me - shrutipillamaram22@gmail.com
   
 
